@@ -10,9 +10,9 @@ Other sections that aren't those core sections are additional context to support
 
 ## HISTORY
 
-- I grew up in the Austin, TX area
-- I went to Mission High School, where I was bullied a decent amount
-- High school is where I met my 2 life-long friends, Doug and Mitchell who are still my friends today
+- I grew up in Eibar (Basque Country)
+- I went to Aldatze (Santa María de la Providencia) high school. Not my favourite place because all my friends were on distinct schools but it is what it is
+- Collegue was a great experience, I learnt that meaningful achievements need suffering and hard work
 
 ## PROBLEMS
 
@@ -29,60 +29,54 @@ Other sections that aren't those core sections are additional context to support
  
 ## GOALS
 
-- G1: Go on the Secure Code Warrior podcast by July of 2026
-- G2: Get at least 100,000 downloads of SecureOSS by December of 2026
-- G3: Wife by 35
-- G4: First kid by 36
+- G1: Power Snatch 80kg
+- G2: Be assertive with work/life balance
+- G3: Take care of myself and the people I love, making it priority nº1
 
 ## CHALLENGES
 
-- C1: I'm super stressed at work and never have time to work on SOSS.
-- C2: I'm having trouble building the UI/UX for SOSS
-- C3: Someone else has a similar project and it's distracting me and demotivating me
-- C4: Hate dating apps
+- C1: I tend to repress emotions like anxiety, anger and fear, which causes me back pain. I should just stop and ask myself how I feel (and be more open with it)
+- C2: I can't multitask. If I am deeply working into something, meetings fuck me up so bad
+
 
 ## THINGS I'VE BEEN WRONG ABOUT
 
-- Thought AirBnB would shut down all the hotels. But they're doing fine.
-- I thought NVIDIA would have been crushed by Amazon by like 2021
+- All people are good by nature, honest and pragmatic
+- You are not a special snowflake (*You are not a beautiful and unique snowflake. You are the same decaying organic matter as everything else*)
 
 ## IDEAS
 
-- I1: Go is the best language because of how universal and fast it is
-- I2: All government software should be OSS and run off SOSS
-- I3: Adam Smith's invisible hand doesn't apply to FOSS because incentives are misaligned
+- I1: Schools should teach what taxes are
+
 
 ## PREDICTIONS
 
-- NVIDIA hits $200 by August of 2026 (80%)
-- China attacks Taiwan by January of 2027 (60%)
-- The price of a gallon of milk hits ______ by ______________. (75%)
+- I will have a kid in >=5 years (80%)
+- I will hit 75kg easy power snatch by 2026 (60%)
+
 
 ## BEST MOVIES
 
-- More
-- Interstellar
-- Pulp Fiction
-- LA-LA Land
+- Shawshank redemption
+- Once upon a time in america
+- The sting
+- Lord of the rings: Return of the king
 
 ## BEST BOOKS
 
+- Catcher in the Rye
+- Brothers Karamazov
 - Man's Search for Meaning
-- The Beginning of Infinity
-- The Science of Storytelling
-- War is Art
+
 
 ## WISDOM
 
-- The magic you're looking for is in the work you're avoiding.
-- In practice, weak people behave very similarly to evil people. Don’t tie yourself to either.
-- When I am feeling low mood or low energy, 95% of the time it's because I have not 1) gotten up early, 2) gotten outside, 3) worked out, 4) gone for a walk, or done anything else physical in the last 2 days. Just go do that, and you'll instantly feel better.
 
 ## METRICS
 
-- K1: 100K downloads by July 2026
-- K2: Wife by 35
-- K3: Kid by 36
+- K1: 
+- K2: 
+- K3: 
 
 ## TRAUMAS
 
@@ -91,6 +85,6 @@ Other sections that aren't those core sections are additional context to support
 
 ## LOG (Journal)
 
-- 22/11/2019: Not sure why she reacted like that. Wasn't my fault. But we fixed it with pecan pie.
-- 22/01/2020: Got my first investor lined up!
-- 12/03/2020: Seem to have sprained my ankle or something. Keep limping on that side.
+- 07/07/2025: Conducted a successful PoC with a customer that wanted to trigger a Power Automate Desktop flow (locally, on the user's machine) from Salesforce 🥳
+- 05/06/2025: I have pased my computer engineering and automatas subjects 🥳
+
